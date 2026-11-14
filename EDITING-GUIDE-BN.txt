@@ -1,0 +1,12 @@
+AB-DIGITAL GROWTH — WEBSITE EDITING GUIDE (বাংলা)
+
+১) index.html = Home, services.html = Services, portfolio.html = Portfolio, blog.html = Blog, review.html = Review, about.html = About, contact.html = Contact।
+২) নিজের ছবি assets/avik-bain-professional.jpg ফাইলে আছে। নতুন ছবি দিলে একই ফাইলনেমে replace করতে পারেন, অথবা HTML-এ image path বদলাবেন।
+৩) Home page-এর হেডিং: “Your Social Media, Strategically Managed for Growth” এবং আপনার দেওয়া subheading বসানো হয়েছে।
+৪) কালো + Cyan design, responsive layout, navigation, meta description, canonical placeholders, Open Graph tags এবং schema markup রয়েছে।
+৫) Portfolio-তে preview/mockup design গুলো নমুনা হিসেবে দেখানো হয়েছে। নিজের আসল কাজের ছবি, project details এবং deliverables দিয়ে বদলাবেন। এগুলোকে client project বা result হিসেবে দাবি করবেন না।
+৬) Review page-এ ভুয়া review/rating নেই। আসল client feedback ও অনুমতি পাওয়ার পরই যোগ করবেন।
+৭) Domain কেনার পর HTML ফাইলগুলোর canonical URL, Open Graph URL, sitemap.xml ও robots.txt-এর YOUR-DOMAIN.com আপনার ডোমেইন দিয়ে বদলাবেন।
+৮) সব HTML ফাইল, styles.css এবং assets ফোল্ডার একই ওয়েবসাইট ফোল্ডারে রাখতে হবে। Hosting-এ সব একসঙ্গে upload করুন।
+৯) Contact form বর্তমানে email app খুলে mailto inquiry তৈরি করে। Website-এ সরাসরি form submission জমা রাখতে Formspree/অনুরূপ service বা backend যুক্ত করতে হবে।
+১০) SEO structure সাহায্য করবে, কিন্তু ranking নিশ্চিত নয়। Helpful original content, performance, indexing, relevant links এবং নিয়মিত আপডেট গুরুত্বপূর্ণ।

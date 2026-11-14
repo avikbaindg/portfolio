@@ -1,0 +1,41 @@
+AB-DIGITAL GROWTH — EDITING & PUBLISHING GUIDE (BANGLA)
+========================================================
+
+এই ZIP-এ ৭টি responsive HTML page আছে:
+1. index.html — Home
+2. services.html — Services
+3. portfolio.html — Portfolio
+4. blog.html — Blog
+5. review.html — Reviews
+6. about.html — About Avik Bain
+7. contact.html — Contact
+
+styles.css, assets/avik-bain-professional.jpg, sitemap.xml, robots.txt এবং SEO metadata-ও রয়েছে।
+
+লোকাল কম্পিউটারে দেখুন:
+1. ZIP extract করুন।
+2. index.html ডাবল-ক্লিক করে browser-এ খুলুন।
+3. সব HTML ফাইল, styles.css এবং assets ফোল্ডার একই root folder-এ রাখুন।
+
+নিজের তথ্য edit করতে:
+- HTML ফাইল VS Code বা Notepad++-এ খুলুন।
+- YOUR-DOMAIN.com খুঁজে আপনার কেনা domain বসান (https:// সহ)।
+- Portfolio-তে নিজের বাস্তব কাজ, প্রকল্পের বিবরণ ও অনুমোদিত ছবি যোগ করুন।
+- Review পেজে শুধু সত্যিকারের ক্লায়েন্টের অনুমতি-প্রাপ্ত review যোগ করুন।
+- Contact form-এর demo UI নিজে থেকে email পাঠায় না। Publish করার আগে Formspree, Netlify Forms বা নিজস্ব backend যুক্ত করুন; নইলে email/WhatsApp link ব্যবহার করুন।
+- “All counters” তথ্যটিকে “Worldwide” হিসেবে লেখা হয়েছে (সম্ভবত “All countries” বোঝানো হয়েছে); দরকার হলে পরিবর্তন করুন।
+
+Domain ও hosting:
+1. Domain এবং HTML-compatible hosting কিনুন।
+2. ZIP extract করে সব ফাইল ও assets ফোল্ডার hosting-এর public root (যেমন public_html)-এ upload করুন।
+3. YOUR-DOMAIN.com placeholders, canonical URL, Open Graph URL/image এবং sitemap.xml-এ domain update করুন।
+4. Google Search Console-এ domain verify করে sitemap.xml submit করুন।
+
+SEO:
+- প্রতিটি page-এ title/meta description, headings, internal links ও structured data রয়েছে।
+- Google ranking নিশ্চিত নয়; ফলাফল content quality, technical setup, competition, links, site speed এবং সময়ের ওপর নির্ভর করে।
+- Fake reviews, invented client projects বা unverified results যোগ করবেন না।
+- Placeholder/sample content publish করার আগে বাস্তব তথ্য দিয়ে বদলান।
+
+ডিজাইন:
+Premium dark/black background, cyan accents, responsive layout এবং আপনার professional portrait ব্যবহার করা হয়েছে। Reference screenshots-এর মতো modern dark agency/portfolio aesthetic অনুসরণ করা হয়েছে।

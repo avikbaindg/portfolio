@@ -1,0 +1,42 @@
+SEO & EDITING GUIDE — AB-DIGITAL GROWTH
+
+BUSINESS INFORMATION
+Brand: AB-DIGITAL GROWTH
+Owner: Avik Bain
+Email: avikbain.dg@gmail.com
+WhatsApp: +8801558903544
+Audience: coaches, small businesses, e-commerce brands
+Services: Social Media Management, Social Media Marketing, Content Creation, SEO Services, Lead Generation
+Social links:
+https://www.facebook.com/abdigitalgrowth55
+https://www.linkedin.com/in/avik-bain-1481a242b
+
+CONTENT TO ADD LATER
+- Real portfolio images with alt text and brief project descriptions.
+- Genuine testimonials only after receiving permission.
+- A privacy policy if you collect personal information or use analytics/marketing trackers.
+- A real domain in canonical URLs, Open Graph URLs, schema, sitemap.xml and robots.txt.
+- Additional original articles based on actual audience questions.
+
+KEYWORD IDEAS TO RESEARCH
+These are brainstorming ideas, not verified search-volume claims:
+- social media management for small businesses
+- social media manager for coaches
+- social media marketing services
+- content creation for small businesses
+- SEO services for small businesses
+- lead generation for coaches
+- Facebook and Instagram marketing services
+
+SEO CHECKLIST
+[ ] One distinct title and meta description for every page.
+[ ] One clear main heading per page and meaningful subheadings.
+[ ] Natural language; no keyword stuffing.
+[ ] Useful internal links between relevant pages.
+[ ] Descriptive alt text for meaningful images.
+[ ] Mobile and desktop testing.
+[ ] Fast, compressed images where possible.
+[ ] HTTPS and a working custom domain.
+[ ] Google Search Console verification and sitemap submission.
+[ ] Original, useful content updated over time.
+[ ] Never promise guaranteed rankings or invent client outcomes.
